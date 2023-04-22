@@ -1,9 +1,10 @@
-# Xtraction v2 Changelog
+# Xtraction v2 
 
 @Xtraction is a multifunctional bot made with passion!
 
 <br>
 
+![Xrraction v2](https://media.discordapp.net/attachments/933072422276587580/1097576761778257960/Projekt_bez_tytuu_3.png)
 
 
 ## Changelog

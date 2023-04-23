@@ -11,4 +11,28 @@ Xtraction v2
 </h1>
 
 
+## What is Xtraction v2
+Xtraction v2 is a multifunctional bot for the discord, with clear style, and easy to use commands.
 
+**Prefix: `!!`, `<@809382025920380969>`**
+<br>
+# Setup
+### 1. First add the bot to your server
+<br>
+<img src="https://cdn.discordapp.com/attachments/1044198524486680636/1099741040912650281/image.png">
+<br>
+<br>
+
+### 2. Type `!!help`
+<br>
+<img src="https://cdn.discordapp.com/attachments/1044198524486680636/1099743000080433314/image.png">
+<br>
+<br>
+
+### 3. Click on "Select category"
+<br>
+<img src="https://cdn.discordapp.com/attachments/1044198524486680636/1099744640728567838/image.png">
+<br>
+<br>
+
+### 4. That's all. Now click on specific category and type your wanted command, like `!!setWelcomeMessage`

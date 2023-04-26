@@ -11,7 +11,7 @@ Xtraction v2
 </h1>
 
 
-## What is Xtraction v2
+## What is Xtraction v
 Xtraction v2 is a multifunctional bot for the discord, with clear style, and easy to use commands.
 
 **Prefix: `!!`, `<@809382025920380969>`**
